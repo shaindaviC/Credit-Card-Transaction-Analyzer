@@ -1,0 +1,6 @@
+•	Transaction ID → string
+•	Amount → decimal
+•	IsInternational → Boolean
+•	CustomerRating → Double
+•	TransactionTimestamp → Date&Time
+•	RewardPoints → int
